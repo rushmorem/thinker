@@ -1,6 +1,6 @@
 [package]
 name = "thinker"
-version = "0.1.0-beta.5+20230403"
+version = "0.2.0-beta.1+2023041101"
 description = "Idea exploration sandbox"
 repository = "https://github.com/rushmorem/thinker"
 license = "MIT/Apache-2.0"
