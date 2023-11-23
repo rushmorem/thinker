@@ -1,1 +1,5 @@
-pub fn foo() {}
+fn bar() {}
+
+pub fn foo() {
+    bar();
+}
